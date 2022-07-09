@@ -1,5 +1,5 @@
-# Experimental-Design-Recommendations-
-Recommendations with IBM
+# Experimental-Design-Recommendations
+**Recommendations with IBM**
 
 ## Table of Contents
  * [Installations](#installations)
